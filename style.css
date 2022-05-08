@@ -55,7 +55,7 @@ button {
 }
 @keyframes list {
   0% {
-    background-image: url('./.gif');
+    background-image: url('./pikachu.gif');
     background-attachment: scroll;
     background-size: cover;
     background-repeat: no-repeat;
